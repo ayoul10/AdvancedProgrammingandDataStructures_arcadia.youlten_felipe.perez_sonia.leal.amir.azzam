@@ -2,7 +2,7 @@
 ## Arcadia Youlten, Felipe Perez, Sonia Leal, and Amir Azzam
 ### Final Project for Advaned Programming and Data Structures - 2019-2020
 
-We used JAVA SDK 13
+We used JAVA SDK 13 - The file is too large to be directly uploaded, so you must download it to git
 
 to run the files you only have to press the run button. a menu like this will show up :
 <i>
